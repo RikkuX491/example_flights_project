@@ -1,0 +1,16 @@
+{
+    "flights": [
+        {
+            "id": 1,
+            "airline": "Delta Airlines"
+        },
+        {
+            "id": 2,
+            "airline": "Emirates Airlines"
+        },
+        {
+            "id": 3,
+            "airline": "Hawaiian Airlines"
+        }
+    ]
+}
